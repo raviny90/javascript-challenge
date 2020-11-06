@@ -6,7 +6,9 @@ The extra-terrestrial menace has come to Earth and we here at ALIENS-R-REAL have
 
 In this challenge, I have written a code using JavaScript, HTML, CSS, and D3.js, that will create a table dynamically based upon a dataset provided. Also users are allowed to filter the table data for specific values.
 
-### Discription Homework - JavaScript and DOM Manipulation
+## JavaScript and DOM Manipulation
+
+### Homework Discription  - 
 
 Common files static/css/style.css -- style sheet for webpage static/images/ufo1.png -- main image for webpage static/js/data.js -- provided UFO dataset for the assignment
 
